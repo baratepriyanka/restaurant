@@ -1,0 +1,517 @@
+.link
+{
+	
+	padding: 20px;
+	word-spacing: 35px;
+	background-image: url(img1.jpg);
+	height: 100%;
+
+	background-size: cover;
+
+}
+a
+{
+	color: white;
+		font-style: oblique;
+}
+a:hover
+{
+	color: #ff3300;
+}
+
+#b
+{
+	margin-left: 60%;
+}
+#a
+{
+	 font-size: 65px;
+	text-align: center;
+	margin-left: 60px;
+	margin-top: 200px;
+	color: white;
+	text-decoration: underline overline;
+	word-spacing: 7px;
+
+}
+#c
+{ 
+	color: white;
+	text-align: center;
+    margin-left: 35%;
+    font-size: 25px;
+    word-spacing: 10px;
+    font-style: oblique;
+
+}
+
+
+
+#d
+{
+	margin-left: 45%;
+	color: white;
+	font-size: 25px;
+	padding: 20px;
+	word-spacing: 7px;
+	background-color: grey;
+	border-radius: 30px;
+	text-decoration: none;
+
+}
+#d:hover
+{
+	border-radius: 30px;
+	background-color: #FF5722;
+}
+#d:active
+{
+	border-radius: 30px;
+	background-color: #FF5722;
+	color: white;
+}
+#e
+{
+	text-align: center;
+	color: white;
+	word-spacing: 7px;
+	margin: 30px;
+	padding: 15px;
+	background-color: #FF5722;
+	border: 1px solid #FF5722;
+	font-size: 20px;
+}
+#g
+{
+	border: 1px solid black;
+	padding: 4px;
+}
+
+.h
+{
+	  float: left;
+	  margin-left: 7%;
+}
+.i
+{
+  float: left;
+  margin-left: 15%;
+}
+.j
+{
+  float: left;
+  margin-left: 17%;
+  
+}
+.k
+{
+ margin-right: 15%;
+  float: right;
+}
+#m
+{
+    margin: 7%;
+}
+#l
+
+{
+	float: left;
+	height: 450px;
+	width: 550px;
+}
+
+#n
+{
+
+	margin-left: 15%;
+	text-align: center;
+	
+
+}
+#o
+{
+	margin-left: 60%;
+	text-align: justify;
+}
+#id1
+{
+	background-color: lightgray;
+	text-align: center;
+
+	padding: 5% 25px 40% 25px;
+	margin: 0px ;
+
+
+}
+.id2
+{ 
+	font-size: 25px;
+	font-style: oblique;
+
+	
+}
+
+#dd
+{
+	margin-left: 10%;
+	
+	color: white;
+	font-size: 25px;
+	padding: 20px;
+	word-spacing: 7px;
+	background-color: grey;
+	border-radius: 30px;
+	text-decoration: none;
+	
+
+}
+#dd:hover
+{
+	border-radius: 30px;
+	background-color: #FF5722;
+}
+
+#id5
+{   
+	padding: 5px 25px 5px 25px;
+	margin: 0px ;     
+	
+}
+#ii
+{
+ text-align: justify;
+ margin-right: 80%;
+ margin-left: 55px;
+ 
+}
+.id3
+{ 
+	float: left;
+	width: 220px;
+   	margin: 10px 0px 10px 7% ;
+  border: none;
+  padding: 25px 25px 5% 25px;
+  text-align: justify;
+  background-color: white;
+ }
+.id4
+{
+  float: left;
+  margin: 10px 0px 10px 0% ;
+  border: none;
+  padding: 15px 25px 0px 25px;
+  text-align: justify;
+   background-color: white;
+}
+.id5
+{
+  float: left;
+	width: 220px;
+   	margin: 10px 0px 10px 0% ;
+  border: none;
+  padding: 25px 25px 5% 25px;
+  text-align: justify;
+   background-color: white;
+}
+.id6
+{	
+	 background-color: white;
+	float: left;
+  margin: 10px 10px 10px 0% ;
+  border: none;
+  padding: 15px 25px 0px 25px;
+  text-align: justify;
+}
+#ddd
+{
+	margin-left: 10%;
+	
+	color: white;
+	font-size: 25px;
+	padding: 10px;
+	word-spacing: 7px;
+	background-color: black;
+	
+	text-decoration: none;
+	
+
+}
+#ddd:hover
+{
+	border-radius: 30px;
+	background-color: #FF5722;
+}
+
+#x
+{
+	text-align: center;
+	font-size: 30px;
+	font-style: oblique;
+}
+#y
+{ float: left;
+	margin-left: 7%;
+	text-transform: 3px; 
+
+
+}
+#y:hover
+{
+	 
+	width: 100px;
+ }
+
+
+#z
+{
+	float: left;
+margin-left: 11%;
+}
+#z:hover
+{
+		
+		width: 100px;
+	 
+ }
+
+
+#v
+{ float: left;
+margin-left: 12%;
+}
+#v:hover
+{
+		
+	 width: 100px;
+ }
+
+
+#u
+{float: left;
+margin-left: 13%;
+}
+#u:hover
+{
+		
+		width: 100px;
+	 
+ }
+
+
+#q
+{float: left;
+margin-left: 13%;
+}
+#q:hover
+{
+		
+		width: 100px;
+ }
+
+
+#r
+{float: right;
+margin-right: 5%;
+}
+#r:hover
+{
+		
+		width: 100px;
+ }
+
+#id
+{
+	
+	margin-left: 60%;
+
+
+}
+#id10
+{margin-left: 60%;
+	
+}
+
+#mm
+{
+	background-color: lightgray;
+	padding: 5% 25px 7% 25px;
+	margin: 0px ;
+ display: block;
+}
+
+
+	#dddd:hover
+{
+	border-radius: 30px;
+	background-color: #FF5722;
+}
+
+#dddd
+{
+	margin-left: 17%;
+	
+	color: white;
+	font-size: 25px;
+	padding: 20px;
+	word-spacing: 7px;
+	background-color: grey;
+	border-radius: 30px;
+	text-decoration: none;
+	
+}
+#h6{
+	margin-left: 60%;
+}
+#text
+{
+	float: left;
+	width: 300px;
+	border: 1px solid white;
+	padding: 25px;
+	margin-left: 2%;
+	background-color: white;
+	font-style: oblique;
+	font-size: 18px;
+}
+#text1
+{
+  float: left;
+	width: 300px;
+	border: 1px solid white;
+	padding: 25px;
+	margin-left: 6.5%;
+	background-color: white;
+	font-style: oblique;
+	font-size: 18px;
+}
+#text2
+{ 
+	float: right;
+	width: 300px;
+	border: 1px solid white;
+	padding: 25px;
+	margin-right: 3%;
+	background-color: white;
+	font-style: oblique;
+	font-size: 18px;
+}
+#text3
+{
+	text-align: center;
+	color:#f8e69f;
+	word-spacing: 2.5px;
+}
+#mmm
+{
+	background-color:#ff6333;
+	padding: 5% 25px 25% 25px;
+	margin: 0px ;
+ display: block;
+ }
+#text4
+{
+	color:#ff6333;
+}
+div.img1
+{
+	 margin: 10px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 420px;
+}
+div.img1:hover
+{
+	border: 2px solid #777;
+}
+div.img1 img
+{
+	 width: 100%;
+  height: auto;
+}
+div.desc
+{
+	padding: 15px;
+	text-align: center;
+}
+#gall
+{
+	text-align: center;
+	font-size: 35px;
+	font-style: oblique;
+}
+#footer
+{
+	margin-top: 7%;
+	width: 100%;
+	height: 300px;
+	border: none;
+	background-color: lightgray;
+}
+#foo
+{
+		margin-top: 2%;
+	float: left;
+	width: 300px;
+	margin-left: 1%;
+	font-style: oblique;
+	font-size: 18px;
+
+}
+#foo3
+{
+		margin-top: 2%;
+	text-align: justify-all;
+	float: left;
+	width: 100px;
+	margin-left: 3%;
+	font-style: oblique;
+	font-size: 18px;
+}
+#foo4
+{
+		margin-top: 2%;
+	float: left;
+	width: 100px;
+	margin-left: 5%;
+	font-style: oblique;
+	font-size: 18px;
+}
+#foo5
+{
+		margin-top: 2%;
+	float: left;
+	width: 100px;
+		margin-left: 6%;
+	font-style: oblique;
+	font-size: 18px;
+}
+#foo6
+{
+		margin-top: 2%;
+	float: left;
+	width: 200px;
+	margin-left: 14%;
+	font-style: oblique;
+	font-size: 18px;
+}
+
+a
+{
+	color: black;
+	text-decoration-line: none;
+}
+a:hover
+{
+	color: #FF5722;
+	text-decoration-line: underline;
+}
+
+
+#foo7
+{
+		
+	
+	width: 250px;
+	font-style: oblique;
+	font-size: 18px;
+}
